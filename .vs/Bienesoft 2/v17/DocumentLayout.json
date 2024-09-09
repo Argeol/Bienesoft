@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\models\\sendemail.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\models\\sendemail.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\function\\general.fuction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\function\\general.fuction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\controllers\\usercotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\controllers\\usercotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\models\\name.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\models\\name.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\models\\departamento.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\models\\departamento.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\models\\configserveremailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\models\\configserveremailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\models\\firma.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\models\\firma.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\models\\jwtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\models\\jwtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\controllers\\departamento.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\controllers\\departamento.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|c:\\users\\sena\\downloads\\bienesoft 2\\bienesoft 2\\controllers\\firma.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C1B99-94FB-46D5-AFB9-9CA6C8D04AB1}|Bienesoft 2\\Bienesoft.csproj|solutionrelative:bienesoft 2\\controllers\\firma.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendEmail.Model.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\SendEmail.Model.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Models\\SendEmail.Model.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\SendEmail.Model.cs",
+              "RelativeToolTip": "Bienesoft 2\\Models\\SendEmail.Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:21:07.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JWTModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\JWTModel.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Models\\JWTModel.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\JWTModel.cs",
+              "RelativeToolTip": "Bienesoft 2\\Models\\JWTModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:38:25.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Name.Model.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\Name.Model.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Models\\Name.Model.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\Name.Model.cs",
+              "RelativeToolTip": "Bienesoft 2\\Models\\Name.Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:38:22.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\UserModel.cs",
+              "RelativeToolTip": "Bienesoft 2\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:38:18.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departamento.Model.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\Departamento.Model.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Models\\Departamento.Model.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\Departamento.Model.cs",
+              "RelativeToolTip": "Bienesoft 2\\Models\\Departamento.Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:21:44.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserCotroller.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Controllers\\UserCotroller.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Controllers\\UserCotroller.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Controllers\\UserCotroller.cs",
+              "RelativeToolTip": "Bienesoft 2\\Controllers\\UserCotroller.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:18:51.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "General.Fuction.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Function\\General.Fuction.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Function\\General.Fuction.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Function\\General.Fuction.cs",
+              "RelativeToolTip": "Bienesoft 2\\Function\\General.Fuction.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:28:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigServerEmailModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\ConfigServerEmailModel.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Models\\ConfigServerEmailModel.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\ConfigServerEmailModel.cs",
+              "RelativeToolTip": "Bienesoft 2\\Models\\ConfigServerEmailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:38:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Departamento.Controller.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Controllers\\Departamento.Controller.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Controllers\\Departamento.Controller.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Controllers\\Departamento.Controller.cs",
+              "RelativeToolTip": "Bienesoft 2\\Controllers\\Departamento.Controller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:22:00.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Firma.Model.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\Firma.Model.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Models\\Firma.Model.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Models\\Firma.Model.cs",
+              "RelativeToolTip": "Bienesoft 2\\Models\\Firma.Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:21:31.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Firma.Controller.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Controllers\\Firma.Controller.cs",
+              "RelativeDocumentMoniker": "Bienesoft 2\\Controllers\\Firma.Controller.cs",
+              "ToolTip": "C:\\Users\\SENA\\Downloads\\Bienesoft 2\\Bienesoft 2\\Controllers\\Firma.Controller.cs",
+              "RelativeToolTip": "Bienesoft 2\\Controllers\\Firma.Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:13:38.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

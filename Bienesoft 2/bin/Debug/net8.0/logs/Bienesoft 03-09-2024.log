@@ -1,0 +1,8 @@
+3/09/2024 9:05:42 a. m. System.FormatException: The specified string is not in the form required for an e-mail address.
+   at System.Net.Mail.MailAddressParser.TryReadCfwsAndThrowIfIncomplete(String data, Int32 index, Int32& outIndex, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseDomain(String data, Int32& index, String& domain, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, Boolean expectMultipleAddresses, Int32& index, ParseAddressInfo& parseAddressInfo, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, ParseAddressInfo& parsedAddress, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at Bienesoft.Function.GeneralFuction.SendEmail(String EmailDestino) in C:\Users\SENA\Downloads\Bienesoft 2\Bienesoft 2\Function\General.Fuction.cs:line 30

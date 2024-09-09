@@ -1,0 +1,6 @@
+@Bienesoft_HostAddress = http://localhost:5106
+
+GET {{Bienesoft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

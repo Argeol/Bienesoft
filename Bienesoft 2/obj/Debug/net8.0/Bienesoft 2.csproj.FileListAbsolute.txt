@@ -1,0 +1,32 @@
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\appsettings.json
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Bienesoft 2.exe
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Bienesoft 2.deps.json
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Bienesoft 2.runtimeconfig.json
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Bienesoft 2.dll
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Bienesoft 2.pdb
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.csproj.AssemblyReference.cache
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.AssemblyInfoInputs.cache
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.AssemblyInfo.cs
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.csproj.CoreCompileInputs.cache
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\staticwebassets\msbuild.Bienesoft 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Bienesoft 2.props
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bienesoft 2.props
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bienesoft 2.props
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\scopedcss\bundle\Bienesoft 2.styles.css
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesof.FEC994BE.Up2Date
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.dll
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\refint\Bienesoft 2.dll
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.pdb
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\Bienesoft 2.genruntimeconfig.cache
+C:\Users\fabis\source\repos\Bienesoft 2\Bienesoft 2\obj\Debug\net8.0\ref\Bienesoft 2.dll
