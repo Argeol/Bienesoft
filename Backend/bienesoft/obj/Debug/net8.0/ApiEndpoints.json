@@ -1,0 +1,469 @@
+[
+  {
+    "ContainingType": "bienesoft.Controllers.AprendizController",
+    "Method": "Create",
+    "RelativePath": "Api/Aprendiz/CreateAprendiz",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Aprendiz",
+        "Type": "bienesoft.Controllers.AprendizController",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.AprendizController",
+    "Method": "Delete",
+    "RelativePath": "Api/Aprendiz/DeleteAprendiz",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.AprendizController",
+    "Method": "Get",
+    "RelativePath": "Api/Aprendiz/GetAprendiz",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.AprendizController",
+    "Method": "Gets",
+    "RelativePath": "Api/Aprendiz/GetsAprendiz",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.AprendizController",
+    "Method": "Update",
+    "RelativePath": "Api/Aprendiz/UpdateAprendiz",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Aprendiz",
+        "Type": "bienesoft.Controllers.AprendizController",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.AttendantController",
+    "Method": "Create",
+    "RelativePath": "Api/Attendant/CreateAttendant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "attendant",
+        "Type": "Bienesoft.Controllers.AttendantController",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.AttendantController",
+    "Method": "Delete",
+    "RelativePath": "Api/Attendant/DeleteAttendant",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.AttendantController",
+    "Method": "Get",
+    "RelativePath": "Api/Attendant/GetAttendant",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.AttendantController",
+    "Method": "Update",
+    "RelativePath": "Api/Attendant/UpdateAttendant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "attendant",
+        "Type": "Bienesoft.Controllers.AttendantController",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.FileController",
+    "Method": "Create",
+    "RelativePath": "Api/File/CreateFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ficha",
+        "Type": "bienesoft.Models.FileModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.FileController",
+    "Method": "Delete",
+    "RelativePath": "Api/File/DeleteFile",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.FileController",
+    "Method": "Get",
+    "RelativePath": "Api/File/GetFile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.FileController",
+    "Method": "Gets",
+    "RelativePath": "Api/File/GetsFile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.FileController",
+    "Method": "Update",
+    "RelativePath": "Api/File/UpdateFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "file",
+        "Type": "bienesoft.Models.FileModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.LoginUserController",
+    "Method": "Create",
+    "RelativePath": "api/LoginUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "bienesoft.models.loginUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.LoginUserController",
+    "Method": "AllUser",
+    "RelativePath": "api/LoginUser/AllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[bienesoft.Models.LearnerModel, bienesoft, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.LoginUserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/LoginUser/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "bienesoft.models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bienesoft.Controllers.LoginUserController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/LoginUser/ResetPassUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "bienesoft.models.ResetPassUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.ProgramController",
+    "Method": "Create",
+    "RelativePath": "Api/Program/CreateProgram",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "program",
+        "Type": "Bienesoft.Controllers.ProgramController",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.ProgramController",
+    "Method": "Delete",
+    "RelativePath": "Api/Program/DeleteProgram",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.ProgramController",
+    "Method": "Get",
+    "RelativePath": "Api/Program/GetProgram",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.ProgramController",
+    "Method": "Update",
+    "RelativePath": "Api/Program/UpdateProgram",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "program",
+        "Type": "Bienesoft.Controllers.ProgramController",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.DepartmentController",
+    "Method": "AlLDepartment",
+    "RelativePath": "apiDepartment/AlLDepartment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Bienesoft.Models.DepartmentModel, bienesoft, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.FirmaController",
+    "Method": "Create",
+    "RelativePath": "apiFirma",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SignatureId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "SignatureLearner",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SignatureInstructor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SignatureCoordinator",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SignatureInternalAsset",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SignatureAsset",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.FirmaController",
+    "Method": "Delete",
+    "RelativePath": "apiFirma/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.FirmaController",
+    "Method": "Read",
+    "RelativePath": "apiFirma/read",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.FirmaController",
+    "Method": "Update",
+    "RelativePath": "apiFirma/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

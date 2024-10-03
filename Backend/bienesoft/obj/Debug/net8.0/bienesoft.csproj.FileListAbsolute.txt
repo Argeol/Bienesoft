@@ -1,0 +1,474 @@
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\appsettings.json
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.exe
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.deps.json
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.runtimeconfig.json
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.pdb
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.AssemblyReference.cache
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfoInputs.cache
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfo.cs
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.bienesoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.build.bienesoft.props
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.bienesoft.props
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.bienesoft.props
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\scopedcss\bundle\bienesoft.styles.css
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.Up2Date
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\refint\bienesoft.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.pdb
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.genruntimeconfig.cache
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\obj\Debug\net8.0\ref\bienesoft.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\refint\bienesoft.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.pdb
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\appsettings.json
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.exe
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.deps.json
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.runtimeconfig.json
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.pdb
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfo.cs
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.bienesoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.build.bienesoft.props
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.bienesoft.props
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.bienesoft.props
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\scopedcss\bundle\bienesoft.styles.css
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.Up2Date
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.genruntimeconfig.cache
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\obj\Debug\net8.0\ref\bienesoft.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SENA\Documents\Nueva carpeta\bienesoft\bienesoft\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.AssemblyReference.cache
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfoInputs.cache
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfo.cs
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.dll
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\refint\bienesoft.dll
+C:\Users\Cristian Tique\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.pdb
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Cristian Tique\source\repos\bienesoft\bienesoft\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.AssemblyReference.cache
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfoInputs.cache
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfo.cs
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\refint\bienesoft.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.pdb
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\appsettings.json
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.exe
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.deps.json
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.runtimeconfig.json
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\bienesoft.pdb
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.bienesoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.build.bienesoft.props
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.bienesoft.props
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.bienesoft.props
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\scopedcss\bundle\bienesoft.styles.css
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.csproj.Up2Date
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\bienesoft.genruntimeconfig.cache
+C:\Users\SENA\Downloads\bienesoft\bienesoft\bienesoft\obj\Debug\net8.0\ref\bienesoft.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.csproj.AssemblyReference.cache
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfoInputs.cache
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfo.cs
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.csproj.CoreCompileInputs.cache
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.sourcelink.json
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\refint\bienesoft.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.pdb
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\appsettings.Development.json
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\appsettings.json
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.exe
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.deps.json
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.runtimeconfig.json
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.pdb
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Humanizer.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\MySqlConnector.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.CodeDom.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets.build.json
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets.development.json
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.bienesoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.build.bienesoft.props
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.bienesoft.props
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.bienesoft.props
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\scopedcss\bundle\bienesoft.styles.css
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.csproj.Up2Date
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.genruntimeconfig.cache
+C:\ProyectoFormativo\bienesoft\Backend\bienesoft\obj\Debug\net8.0\ref\bienesoft.dll
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.csproj.AssemblyReference.cache
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfoInputs.cache
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfo.cs
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.csproj.CoreCompileInputs.cache
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.dll
+C:\Proyecto\bienesoft\obj\Debug\net8.0\refint\bienesoft.dll
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.pdb
+C:\Proyecto\bienesoft\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyecto\bienesoft\bin\Debug\net8.0\appsettings.json
+C:\Proyecto\bienesoft\bin\Debug\net8.0\bienesoft.exe
+C:\Proyecto\bienesoft\bin\Debug\net8.0\bienesoft.deps.json
+C:\Proyecto\bienesoft\bin\Debug\net8.0\bienesoft.runtimeconfig.json
+C:\Proyecto\bienesoft\bin\Debug\net8.0\bienesoft.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\bienesoft.pdb
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Humanizer.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\MySqlConnector.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\System.CodeDom.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto\bienesoft\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyecto\bienesoft\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyecto\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.bienesoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyecto\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.build.bienesoft.props
+C:\Proyecto\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.bienesoft.props
+C:\Proyecto\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.bienesoft.props
+C:\Proyecto\bienesoft\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyecto\bienesoft\obj\Debug\net8.0\scopedcss\bundle\bienesoft.styles.css
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.csproj.Up2Date
+C:\Proyecto\bienesoft\obj\Debug\net8.0\bienesoft.genruntimeconfig.cache
+C:\Proyecto\bienesoft\obj\Debug\net8.0\ref\bienesoft.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\appsettings.Development.json
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\appsettings.json
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.exe
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.deps.json
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.runtimeconfig.json
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\bienesoft.pdb
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Humanizer.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\MySqlConnector.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.CodeDom.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.csproj.AssemblyReference.cache
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfoInputs.cache
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.AssemblyInfo.cs
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.csproj.CoreCompileInputs.cache
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cs
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.MvcApplicationPartsAssemblyInfo.cache
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.sourcelink.json
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets.build.json
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets.development.json
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.bienesoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.build.bienesoft.props
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.bienesoft.props
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.bienesoft.props
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\staticwebassets.pack.json
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\scopedcss\bundle\bienesoft.styles.css
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.csproj.Up2Date
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\refint\bienesoft.dll
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.pdb
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\bienesoft.genruntimeconfig.cache
+C:\PRPYEC\bienesoft\Backend\bienesoft\obj\Debug\net8.0\ref\bienesoft.dll
