@@ -1,6 +1,6 @@
 ﻿namespace bienesoft.Models
 {
-    public class FileModel
+    public class FichaModel
     {
         public int Id_Ficha { get; set; }
 

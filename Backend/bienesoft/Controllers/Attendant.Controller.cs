@@ -10,6 +10,10 @@ namespace Bienesoft.Controllers
     {
         public GeneralFunction GeneralFunction;
 
+        public AttendantController(IConfiguration configuration)
+        {
+            GeneralFunction = new GeneralFunction(configuration);
+        }
         [HttpPost("CreateAttendant")]
         public IActionResult Create(AttendantController attendant)
         {
@@ -34,10 +38,10 @@ namespace Bienesoft.Controllers
             }
             catch (Exception ex)
             {
-                {
+                
                     GeneralFunction.Addlog(ex.Message);
                     return StatusCode(500, ex.ToString());
-                }
+                
             }
         }
         [HttpPost("UpdateAttendant")]
@@ -69,3 +73,4 @@ namespace Bienesoft.Controllers
 
     }
 }
+

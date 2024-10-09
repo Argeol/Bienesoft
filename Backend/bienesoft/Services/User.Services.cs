@@ -18,11 +18,6 @@ namespace bienesoft.Services
         {
             return _context.Learner.ToList();
         }
-        public IEnumerable<DepartmentModel> GetDepartmentModels()
-        {
-            return _context.department.ToList();
-        }
-
         // Otros métodos relacionados con usuarios...
     }
 }

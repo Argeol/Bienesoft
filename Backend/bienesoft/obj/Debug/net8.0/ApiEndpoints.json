@@ -154,25 +154,25 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "bienesoft.Controllers.FileController",
+    "ContainingType": "bienesoft.Controllers.FichaController",
     "Method": "Create",
-    "RelativePath": "Api/File/CreateFile",
+    "RelativePath": "Api/Ficha/CreateFicha",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "ficha",
-        "Type": "bienesoft.Models.FileModel",
+        "Type": "bienesoft.Models.FichaModel",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "bienesoft.Controllers.FileController",
+    "ContainingType": "bienesoft.Controllers.FichaController",
     "Method": "Delete",
-    "RelativePath": "Api/File/DeleteFile",
+    "RelativePath": "Api/Ficha/DeleteFicha",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -186,9 +186,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "bienesoft.Controllers.FileController",
+    "ContainingType": "bienesoft.Controllers.FichaController",
     "Method": "Get",
-    "RelativePath": "Api/File/GetFile",
+    "RelativePath": "Api/Ficha/GetFicha",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -202,9 +202,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "bienesoft.Controllers.FileController",
+    "ContainingType": "bienesoft.Controllers.FichaController",
     "Method": "Gets",
-    "RelativePath": "Api/File/GetsFile",
+    "RelativePath": "Api/Ficha/GetsFicha",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -218,9 +218,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "bienesoft.Controllers.FileController",
+    "ContainingType": "bienesoft.Controllers.FichaController",
     "Method": "Update",
-    "RelativePath": "Api/File/UpdateFile",
+    "RelativePath": "Api/Ficha/UpdateFicha",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -231,8 +231,8 @@
         "IsRequired": false
       },
       {
-        "Name": "file",
-        "Type": "bienesoft.Models.FileModel",
+        "Name": "ficha",
+        "Type": "bienesoft.Models.FichaModel",
         "IsRequired": true
       }
     ],
@@ -377,6 +377,32 @@
   },
   {
     "ContainingType": "Bienesoft.Controllers.DepartmentController",
+    "Method": "ALLDepartamentOne",
+    "RelativePath": "apiDepartment/ALLDepartamentOne",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id_Department",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Bienesoft.Models.DepartmentModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.DepartmentController",
     "Method": "AlLDepartment",
     "RelativePath": "apiDepartment/AlLDepartment",
     "HttpMethod": "GET",
@@ -394,6 +420,64 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.DepartmentController",
+    "Method": "Delete",
+    "RelativePath": "apiDepartment/DeleteDepartment",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id_Department",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.DepartmentController",
+    "Method": "Add",
+    "RelativePath": "apiDepartment/DepartmentCreate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id_Department",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "DepartmentName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bienesoft.Controllers.DepartmentController",
+    "Method": "Update",
+    "RelativePath": "apiDepartment/UpdateDepartment",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id_Department",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "DepartmentName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Bienesoft.Controllers.FirmaController",

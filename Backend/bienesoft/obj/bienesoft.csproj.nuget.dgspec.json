@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PRPYEC\\bienesoft\\Backend\\bienesoft\\bienesoft.csproj": {}
+    "C:\\Proyecto\\bienesoft\\bienesoft.csproj": {}
   },
   "projects": {
-    "C:\\PRPYEC\\bienesoft\\Backend\\bienesoft\\bienesoft.csproj": {
+    "C:\\Proyecto\\bienesoft\\bienesoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PRPYEC\\bienesoft\\Backend\\bienesoft\\bienesoft.csproj",
+        "projectUniqueName": "C:\\Proyecto\\bienesoft\\bienesoft.csproj",
         "projectName": "bienesoft",
-        "projectPath": "C:\\PRPYEC\\bienesoft\\Backend\\bienesoft\\bienesoft.csproj",
+        "projectPath": "C:\\Proyecto\\bienesoft\\bienesoft.csproj",
         "packagesPath": "C:\\Users\\guiop\\.nuget\\packages\\",
-        "outputPath": "C:\\PRPYEC\\bienesoft\\Backend\\bienesoft\\obj\\",
+        "outputPath": "C:\\Proyecto\\bienesoft\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

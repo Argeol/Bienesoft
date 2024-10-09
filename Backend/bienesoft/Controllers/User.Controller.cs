@@ -61,18 +61,25 @@ namespace bienesoft.Controllers
                 return StatusCode(500, "Ocurrió un error en el servidor.");
             }
         }
-
         [HttpPost("ResetPassUser")]
         public async Task<IActionResult> ResetPassword(ResetPassUser user)
         {
             try
             {
-                // Implementa aquí la lógica para enviar el correo de restablecimiento de contraseña
-                // Ejemplo: await EnviarCorreoRestablecimiento(user.Email);
-                // Reemplaza con tu implementación real
-                // ...
+                // Lógica para verificar al usuario y generar un token para restablecimiento de contraseña
+                // Por ejemplo, puedes generar un token de restablecimiento y almacenarlo en la base de datos
 
-                return Ok("Correo de restablecimiento de contraseña enviado correctamente.");
+                // Enviar el correo de restablecimiento de contraseña
+                var response = await _generalFunction.SendEmail(user.Email);
+
+                if (response.Status)
+                {
+                    return Ok("Correo de restablecimiento de contraseña enviado correctamente.");
+                }
+                else
+                {
+                    return BadRequest(response.Message);
+                }
             }
             catch (Exception ex)
             {
@@ -80,6 +87,7 @@ namespace bienesoft.Controllers
                 return StatusCode(500, "Ocurrió un error en el servidor.");
             }
         }
+
 
         [HttpPost("CreateUser")]
         public IActionResult CreateUser(User user)

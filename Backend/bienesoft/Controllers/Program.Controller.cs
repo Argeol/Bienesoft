@@ -4,8 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Bienesoft.Controllers;
 
-[ApiController]
-[Route("Api/[Controller]")]
+    [ApiController]
+    [Route("Api/[Controller]")]
 public class ProgramController : Controller
 {
     public GeneralFunction GeneralFunction;
@@ -69,3 +69,5 @@ public class ProgramController : Controller
     }
 
 }
+
+

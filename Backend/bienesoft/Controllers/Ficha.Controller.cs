@@ -7,13 +7,13 @@ namespace bienesoft.Controllers
 {
     [ApiController]
     [Route("Api/[controller]")]
-    public class FileController : Controller
+    public class FichaController : Controller
     {
         public GeneralFunction GeneralFunction;
 
 
-        [HttpPost("CreateFile")]
-        public IActionResult Create(FileModel ficha)
+        [HttpPost("CreateFicha")]
+        public IActionResult Create(FichaModel ficha)
         {
             try
             {
@@ -26,7 +26,7 @@ namespace bienesoft.Controllers
 
             }
         }
-        [HttpGet("GetFile")]
+        [HttpGet("GetFicha")]
 
         public IActionResult Get(int id)
         {
@@ -42,7 +42,7 @@ namespace bienesoft.Controllers
                 }
             }
         }
-        [HttpGet("GetsFile")]
+        [HttpGet("GetsFicha")]
 
         public IActionResult Gets(int id)
         {
@@ -58,8 +58,8 @@ namespace bienesoft.Controllers
                 }
             }
         }
-        [HttpPost("UpdateFile")]
-        public IActionResult Update(int Id, FileModel file)
+        [HttpPost("UpdateFicha")]
+        public IActionResult Update(int Id, FichaModel ficha)
         {
             try
             {
@@ -71,7 +71,7 @@ namespace bienesoft.Controllers
                 return StatusCode(500, ex.ToString());
             }
         }
-        [HttpDelete("DeleteFile")]
+        [HttpDelete("DeleteFicha")]
         public IActionResult Delete(int id)
         {
             try

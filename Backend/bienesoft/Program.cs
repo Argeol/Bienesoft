@@ -22,6 +22,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 // Registrar servicios personalizados.
 builder.Services.AddScoped<UserServices>();
+builder.Services.AddScoped<DepartmentServices>();
 builder.Services.AddTransient<GeneralFunction>();
 
 // Configurar JWT

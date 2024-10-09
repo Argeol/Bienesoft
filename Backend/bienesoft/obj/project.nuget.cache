@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "902ts9+mBcM=",
+  "dgSpecHash": "khkuMXRjTAA=",
   "success": true,
-  "projectFilePath": "C:\\PRPYEC\\bienesoft\\Backend\\bienesoft\\bienesoft.csproj",
+  "projectFilePath": "C:\\Proyecto\\bienesoft\\bienesoft.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guiop\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\guiop\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.7\\microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",
